@@ -5,7 +5,7 @@ end
 
 # Define breakfast, lunch and dinner methods that return the meal choice passed into them with a default to your favorite.
 
-def meals(breakfast="frosted flakes", lunch="grilled cheese", dinner="salmon")
+def meals(breakfast="Frosted Flakes", lunch="grilled cheese", dinner="Salmon")
   puts "#{breakfast} is the best in the morning #{lunch} is best in the afternoon and #{dinner} is best at night"
 end
 
