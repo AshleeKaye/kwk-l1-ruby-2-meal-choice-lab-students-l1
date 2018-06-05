@@ -14,9 +14,7 @@ puts snacks("Swedish fish")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
 # call your methods here
-def meals(breakfast, lunch, dinner)
-  puts "#{breakfast} is the best in the morning #{lunch} is best in the afternoon and #{dinner} is best at night"
-end
+
 
 # Call your methods without any arguments here
 puts snacks
