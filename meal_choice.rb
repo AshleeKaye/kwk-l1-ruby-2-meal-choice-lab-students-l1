@@ -9,7 +9,7 @@ def meals(breakfast="Frosted Flakes", lunch="grilled cheese", dinner="Salmon")
   puts "#{breakfast} is the best in the morning #{lunch} is best in the afternoon and #{dinner} is best at night"
 end
 
-#meals("pancakes", "sandwiches", "steak")
+meals
 
 # Call the methods with puts and your own arguments here. Like this:
 puts snacks("Swedish fish")
